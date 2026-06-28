@@ -1,0 +1,1 @@
+print("MANI is the CM of Tamilnadu")
